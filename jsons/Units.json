@@ -1,12 +1,12 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Phaso-Impulso A-8",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Cats",
 		"replaces": "Machine Gun",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
+		"strength": 100,
+		"rangedStrength": 50,
 		"range": 2,
 		"cost": 500,
 		"requiredTech": "Ballistics",
